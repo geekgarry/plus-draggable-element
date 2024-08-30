@@ -1,0 +1,24 @@
+{
+  "name": "plus-draggable-element",
+  "version": "1.0.0",
+  "description": "一个可拖拽的html元素，可以把任何内容放入，变为一个可拖拽的组件，可以是一个div、文本，也可以是任何网页组件，自由拖动，在靠近屏幕边缘时，会自动隐藏为一个小浮标，浮标的内容可以自定义任何图片表示当前组件的类型，没有则提供默认浮标，点击浮标即可再次显示原组件内容",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geekgarry/plus-draggable-element.git"
+  },
+  "keywords": [
+    "plus-draggable-element",
+    "plus-drag-element",
+    "draggable-component"
+  ],
+  "author": "geekgarry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geekgarry/plus-draggable-element/issues"
+  },
+  "homepage": "https://github.com/geekgarry/plus-draggable-element#readme"
+}
